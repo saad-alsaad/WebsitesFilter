@@ -19,4 +19,5 @@ The work is done using Python libraries like Pandas/Numpy/Sklearn/Seaborn/Matplo
 <li>SVM</li>
 <li>Random Forest</li>
 </ul>
+<br>
 The final step will be choosing the better algorithm by comparing the performance and learning curve between the models.
