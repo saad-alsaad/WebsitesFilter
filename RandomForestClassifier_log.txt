@@ -1,0 +1,47 @@
+Cross Validation r2 Scores for 10 fold: [0.8602 0.8452 0.845  0.895  0.82   0.825  0.85   0.865  0.83   0.835 ]
+Cross Validation Mean r2 Score for 10 fold: 0.8470367830423939
+Cross Validation neg_mean_absolute_error Scores for 10 fold: [0.035  0.0412 0.0362 0.0325 0.0488 0.0362 0.0388 0.0338 0.0425 0.0338]
+Cross Validation Mean neg_mean_absolute_error Score for 10 fold: 0.037865480649188515
+Cross Validation neg_mean_squared_error Scores for 10 fold: [0.035  0.0337 0.0362 0.0312 0.0425 0.04   0.0375 0.0325 0.045  0.0325]
+Cross Validation Mean neg_mean_squared_error Score for 10 fold: 0.03661641697877653
+Cross Validation neg_root_mean_squared_error Scores for 10 fold: [0.1836 0.1903 0.1871 0.1837 0.2092 0.1936 0.1904 0.1904 0.2121 0.1837]
+Cross Validation Mean neg_root_mean_squared_error Score for 10 fold: 0.1924113655392769
+Cross Validation accuracy Scores for 10 fold: [0.9663 0.96   0.9662 0.97   0.9512 0.9588 0.9662 0.9688 0.9538 0.9688]
+Cross Validation Mean accuracy Score for 10 fold: 0.9630092072409487
+Cross Validation balanced_accuracy Scores for 10 fold: [0.9638 0.9663 0.965  0.9712 0.9562 0.9612 0.965  0.965  0.9525 0.9662]
+Cross Validation Mean balanced_accuracy Score for 10 fold: 0.9632590399002494
+Cross Validation average_precision Scores for 10 fold: [0.9911 0.991  0.9907 0.994  0.9917 0.9913 0.9931 0.9964 0.9918 0.9926]
+Cross Validation Mean average_precision Score for 10 fold: 0.9923707197707904
+Cross Validation precision Scores for 10 fold: [0.9605 0.9767 0.9601 0.9724 0.9485 0.9695 0.9699 0.9652 0.9527 0.9676]
+Cross Validation Mean precision Score for 10 fold: 0.9643180209317166
+Cross Validation recall Scores for 10 fold: [0.9751 0.9451 0.965  0.975  0.955  0.95   0.97   0.965  0.9575 0.97  ]
+Cross Validation Mean recall Score for 10 fold: 0.9627699501246884
+Cross Validation f1 Scores for 10 fold: [0.9628 0.966  0.9589 0.9738 0.9566 0.9635 0.966  0.9688 0.9538 0.9651]
+Cross Validation Mean f1 Score for 10 fold: 0.9635291394384435
+Average expected loss: 0.036
+Average bias: 0.033
+Average variance: 0.010
+Variance: 0.8623321232420914
+Train Scores Mean: [-0.00000000e+00 -0.00000000e+00 -0.00000000e+00 -0.00000000e+00
+ -0.00000000e+00  2.77739203e-05]
+Validation Scores Mean: [0.49987516 0.08847581 0.0601122  0.04561454 0.04049048 0.03636657]
+MSE: 0.03442240373395566
+Training MSE: 0.0
+MAE: 0.03442240373395566
+Accuracy Score: 0.9655775962660443
+Confusion Matrix: [[1660   55]
+ [  63 1650]]
+
+Training Confusion Matrix: [[4000    0]
+ [   0 4002]]
+
+Report:               precision    recall  f1-score   support
+
+         0.0       0.96      0.97      0.97      1715
+         1.0       0.97      0.96      0.97      1713
+
+    accuracy                           0.97      3428
+   macro avg       0.97      0.97      0.97      3428
+weighted avg       0.97      0.97      0.97      3428
+
+
