@@ -1,7 +1,7 @@
-##Websites Filter
+<h2>Websites Filter</h2>
 The Project aim to build a classification model to detect if a website is safe or not.<br> 
 The work is done using Python libraries like Pandas/Numpy/Sklearn/Seaborn/Matplotlib.<br>
-####Follow the EDA steps.<br>
+<h4>Follow the EDA steps.</h4><br>
 - Cleaning and removing unneeded values and features.
 - Check if we have missing values in our data and fix them.
 - Calculate basic summaries for our data, mean, maximum, minimum, mode, Standard Deviation, and q1/q2/q3 values for each feature.
@@ -11,7 +11,7 @@ The work is done using Python libraries like Pandas/Numpy/Sklearn/Seaborn/Matplo
 - Generate box plots for the most correlated features and related to my target feature to spot the outliers easily. 
 - Visualize the relation between the most correlated features with the target features using bivariate analysis. 
 
-####Try 4 machine learning algorithms that may work properly with our dataset:
+<h4>Try 4 machine learning algorithms that may work properly with our dataset:</h4>
 - KNN
 - Logistic Regression
 - SVM
